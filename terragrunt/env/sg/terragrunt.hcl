@@ -1,0 +1,7 @@
+
+
+terraform {
+  source = "../../../modules/eks"
+}
+
+
